@@ -84,7 +84,7 @@ modelado estadístico y visualización.
 
 ## 🎓 Education & Certifications / Formación y Certificaciones
 
-🏫 **Máster en Big Data y Visual Analytics** — UNIR (Universidad Internacional de La Rioja) · En curso
+🏫 **Máster en Big Data y Visual Analytics** — UNIR (Universidad Internacional de La Rioja) 
 
 ### Certifications
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
