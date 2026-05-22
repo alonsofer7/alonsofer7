@@ -32,7 +32,7 @@ Trabajo a lo largo de todo el ciclo dato-producto: desde arquitectura backend y 
 
 | Area | Technologies |
 |---|---|
-| Language | C# · .NET 8 · .NET Framework 4.x |
+| Language | C# · .NET (Framework 4.x → .NET 8) |
 | Frameworks | Blazor · SignalR · ASP.NET Core |
 | Integration | REST APIs · JSON · SqlTableDependency |
 | Database | SQL Server · T-SQL |
@@ -41,17 +41,22 @@ Trabajo a lo largo de todo el ciclo dato-producto: desde arquitectura backend y 
 
 ---
 
+
 ## 📊 Data & Analytics Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,grafana,jupyter,r" />
+  <img src="https://skillicons.dev/icons?i=python,docker,grafana,jupyter,r,mongodb,aws,azure" />
 </p>
 
 | Area | Technologies |
 |---|---|
 | Languages | Python · R |
-| Libraries | pandas · matplotlib · seaborn · scipy · statsmodels |
+| Big Data | Apache Spark · Hadoop · Hive |
+| ETL & Pipelines | pandas · custom Python pipelines · data wrangling |
+| NoSQL | MongoDB |
+| Cloud Data | AWS S3 · Azure Data Factory |
 | Visualisation | Power BI · Tableau · Grafana |
+| Libraries | pandas · matplotlib · seaborn · scipy · statsmodels |
 | Infrastructure | Docker · Docker Compose |
 | Notebooks | Jupyter |
 
