@@ -4,8 +4,6 @@
 
 **Backend Developer · .NET Specialist · Big Data & Visual Analytics**
 
-Spain · Open to opportunities
-
 </div>
 
 ---
