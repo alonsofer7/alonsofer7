@@ -2,7 +2,7 @@
 
 # Fernando Alonso Sánchez Heredero
 
-**Backend Developer · .NET Specialist · Big Data & Visual Analytics**
+**Software Engineer · .NET Specialist · Big Data & Visual Analytics**
 
 </div>
 
