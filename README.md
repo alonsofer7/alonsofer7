@@ -12,7 +12,7 @@
 
 I'm a backend developer with solid professional experience in the **.NET ecosystem**, focused on building robust APIs, real-time services and system integrations. Alongside my engineering work, I hold a **Master's degree in Big Data and Visual Analytics** from UNIR, where I've applied data analysis, statistical modelling and visualisation to real-world problems.
 
-I work across the full data-to-product pipeline — from backend architecture and database design to analytical workflows and dashboard development.
+I work across the full data-to-product pipeline: from backend architecture and database design to analytical workflows and dashboard development.
 
 ---
 
